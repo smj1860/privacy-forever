@@ -1,0 +1,7 @@
+{
+	"dependencies": {
+		"@plasmohq/storage": "^1.15.0",
+		"html5-qrcode": "^2.3.8",
+		"aamva-parser": "^1.6.0"
+	}
+}
